@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProAtividade_API.props" />
+</Project>
